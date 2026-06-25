@@ -10,5 +10,8 @@ Unlike Window's (no help at all), Folder Hawk Is 100% Open Source & Free. Its Fe
 
 > [!WARNING]
 > Common Bugs:
+
 > Freezing apon Big Folders,
+
 > Freezing when Deleting Files 1TB+
+
